@@ -1,0 +1,17 @@
+body
+{
+    background-color: oldlace;
+}
+h2
+{
+    color: teal;
+    text-align: center;
+    font-family: inherit;
+}
+li
+{
+    text-align: center;
+    list-style: none;
+    font-family: cursive;
+    color: darkorange;
+}
